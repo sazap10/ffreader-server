@@ -10,4 +10,5 @@ bcrypt==1.0.2
 cffi==0.8.1
 itsdangerous==0.23
 pycparser==2.10
+stevedore==0.14.1
 wsgiref==0.1.2
